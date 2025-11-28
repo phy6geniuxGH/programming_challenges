@@ -1,5 +1,5 @@
 # Programming and Challenges
-- LeetCode
+- LeetCode - Free Questions
 - StrataScratch
 - Project Euler
 - Edabit
