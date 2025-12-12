@@ -2,6 +2,6 @@
 - LeetCode - Free Questions
 - StrataScratch
 - Project Euler
-- Edabit
 - CodeWars
 - Codeabbey
+- Codeforces
