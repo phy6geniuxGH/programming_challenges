@@ -7,3 +7,7 @@
 - Codeforces
 - DataCamp
 - OpenML
+- Kaggle
+- Self-created problems
+- Pandas
+- SQL
