@@ -12,3 +12,4 @@
 - Pandas
 - SQL
 - HackerRank
+- The Odin Project
