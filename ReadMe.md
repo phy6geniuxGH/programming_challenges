@@ -15,3 +15,5 @@
 - The Odin Project
 - Advanced SQL Puzzles
 - sql-practice
+# Free Sessions
+- Math coding
