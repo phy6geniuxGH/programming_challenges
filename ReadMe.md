@@ -17,3 +17,4 @@
 - sql-practice
 # Free Sessions
 - Math coding
+- Fun coding with AI
