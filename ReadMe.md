@@ -16,6 +16,11 @@
 - Advanced SQL Puzzles
 - sql-practice
 - regex practice
+- Regex One
+- Regex Crossword
+- RegExr
+- Regex101
 # Free Sessions
 - Math coding
 - Fun coding with AI
+- Git by bit
