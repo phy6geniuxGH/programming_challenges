@@ -20,6 +20,9 @@
 - Regex Crossword
 - RegExr
 - Regex101
+- TensorTonic
+
+
 # Free Sessions
 - Math coding
 - Fun coding with AI
