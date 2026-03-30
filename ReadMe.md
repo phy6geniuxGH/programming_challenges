@@ -21,6 +21,8 @@
 - RegExr
 - Regex101
 - TensorTonic
+- Neuprise
+- Pixelbank
 
 
 # Free Sessions
