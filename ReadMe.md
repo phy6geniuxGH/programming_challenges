@@ -22,7 +22,9 @@
 - Regex101
 - TensorTonic
 - Neuprise
-- CatchCode 
+- CatchCode
+- PixelBank
+- Replicube
 
 
 # Free Sessions
